@@ -6,7 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
 # Configuration
-WEBSITE_URL = "https://ipl2025allupdatein.blogspot.com/2025/03/ipl-live-pro-free-advanced-cricket.html"  # Change to your target website
+WEBSITE_URL = "https://ipl2025allupdatein.blogspot.com/2025/03/rcb-vs-csk-royal-challengers-bengaluru.html"  # Change to your target website
 WAIT_TIME = 15  # Seconds between reloads
 CLICK_X = 100   # X coordinate to click
 CLICK_Y = 100   # Y coordinate to click
